@@ -1,7 +1,17 @@
 .sidebar {
   float: right;
+  border: 30px;
+  border-style: groove;
+  border-color: #E37E0B;
+  background-color: #E3410B;
 }
 
 img.main {
   float: left;
+}
+
+body {
+  background-color: #805649;
+  color: #B0AC3F;
+  font-size: 30px;
 }
